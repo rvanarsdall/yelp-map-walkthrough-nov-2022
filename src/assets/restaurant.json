@@ -136,13 +136,13 @@
     },
     "phoneNumber": "(212) 787-3388",
     "hours": {
-      "Mon:": " 1:00 pm - 10:00 pm",
-      "Tue:": "1:00 pm - 10:00 pm",
-      "Wed:": "1:00 pm - 10:00 pm",
-      "Thu:": "1:00 pm - 10:00 pm",
-      "Fri:": "1:00 pm - 11:00 pm",
-      "Sat:": "1:00 pm - 11:00 pm",
-      "Sun:": "1:00 pm - 10:00 pm"
+      "Monday": " 1:00 pm - 10:00 pm",
+      "Tuesday": "1:00 pm - 10:00 pm",
+      "Wednesday": "1:00 pm - 10:00 pm",
+      "Thursday": "1:00 pm - 10:00 pm",
+      "Friday": "1:00 pm - 11:00 pm",
+      "Saturday": "1:00 pm - 11:00 pm",
+      "Sunday": "1:00 pm - 10:00 pm"
     },
     "about": "upbeat Spanish-paruvian food"
   },
@@ -159,13 +159,13 @@
 
     "phoneNumber": "+17185522652",
     "hours": {
-      "Tuesday:": "12:00 - 9:00",
-      "Wednesday:": "12:00 - 9:00",
-      "Thursday:": "12:00 - 9:00",
-      "Friday:": "12:00 - 10:00",
-      "Saturday:": "12:00 - 10:00",
-      "Sunday:": "12:00 - 8:00",
-      "Monday:": "12:00 - 9:00"
+      "Tuesday": "12:00 - 9:00",
+      "Wednesday": "12:00 - 9:00",
+      "Thursday": "12:00 - 9:00",
+      "Friday": "12:00 - 10:00",
+      "Saturday": "12:00 - 10:00",
+      "Sunday": "12:00 - 8:00",
+      "Monday": "12:00 - 9:00"
     },
     "about": "Unique twist on Pizza with topping options out of this world"
   },
@@ -180,13 +180,13 @@
     },
     "phoneNumber": "802-760-6143",
     "hours": {
-      "Sunday:": " 4:00 - 10:00",
-      "Monday:": "  4:00 - 10:00",
-      "Tuesday:": "  Closed",
-      "Wednesday:": "  Closed",
-      "Thursday:": "  4:00 - 10:00",
-      "Friday:": "  4:00 - 10:00",
-      "Saturday:": "  4:00 - 10:00"
+      "Sunday": " 4:00 - 10:00",
+      "Monday": "  4:00 - 10:00",
+      "Tuesday": "  Closed",
+      "Wednesday": "  Closed",
+      "Thursday": "  4:00 - 10:00",
+      "Friday": "  4:00 - 10:00",
+      "Saturday": "  4:00 - 10:00"
     },
     "about": "Wine bar featuring all natural, organic, and biodynamic wines with a unique offering of small plates and entrees highlighting local ingredients."
   },
@@ -201,13 +201,13 @@
     },
     "phoneNumber": "802-244-7300",
     "hours": {
-      "Sunday:": " Closed",
-      "Monday:": "  Closed",
-      "Tuesday:": "  5:00 - 9:00",
-      "Wednesday:": "  5:00 - 9:00",
-      "Thursday:": "  5:00 - 9:00",
-      "Friday:": "  5:00 - 9:00",
-      "Saturday:": "  5:00 - 9:00"
+      "Sunday": " Closed",
+      "Monday": "  Closed",
+      "Tuesday": "  5:00 - 9:00",
+      "Wednesday": "  5:00 - 9:00",
+      "Thursday": "  5:00 - 9:00",
+      "Friday": "  5:00 - 9:00",
+      "Saturday": "  5:00 - 9:00"
     },
     "about": "Simple, technique-driven northeast regional food."
   },
@@ -222,13 +222,13 @@
     },
     "phoneNumber": "802-244-0123",
     "hours": {
-      "Sunday:": " Closed",
-      "Monday:": "  Closed",
-      "Tuesday:": "  12:00 - 9:00",
-      "Wednesday:": "  12:00 - 9:00",
-      "Thursday:": "  12:00 - 9:00",
-      "Friday:": "  12:00 - 9:00",
-      "Saturday:": "  12:00 - 9:000"
+      "Sunday": " Closed",
+      "Monday": "  Closed",
+      "Tuesday": "  12:00 - 9:00",
+      "Wednesday": "  12:00 - 9:00",
+      "Thursday": "  12:00 - 9:00",
+      "Friday": "  12:00 - 9:00",
+      "Saturday": "  12:00 - 9:000"
     },
     "about": "Quaint farm-to-table American restuarant with large craft beer selection."
   },
@@ -243,13 +243,13 @@
     },
     "phoneNumber": "1-802-863-2337",
     "hours": {
-      "Sunday:": " 12:00 - 9:00",
-      "Monday:": "  12:00 - 9:00",
-      "Tuesday:": "  12:00 - 9:00",
-      "Wednesday:": "  12:00 - 9:00",
-      "Thursday:": "  12:00 - 9:00",
-      "Friday:": "  12:00 - 9:00",
-      "Saturday:": "  12:00 - 9:00"
+      "Sunday": " 12:00 - 9:00",
+      "Monday": "  12:00 - 9:00",
+      "Tuesday": "  12:00 - 9:00",
+      "Wednesday": "  12:00 - 9:00",
+      "Thursday": "  12:00 - 9:00",
+      "Friday": "  12:00 - 9:00",
+      "Saturday": "  12:00 - 9:00"
     },
     "about": "Burlington Beer Co. was established in 2014. THe taproom, restaurant and barrel house is located at 180 Flynn Avenue in Burlington, VT."
   },
@@ -264,13 +264,13 @@
     },
     "phoneNumber": "1-802-497-0054",
     "hours": {
-      "Sunday:": " 8:00 - 9:00",
-      "Monday:": "  8:00 - 9:00",
-      "Tuesday:": "  8:00 - 9:00",
-      "Wednesday:": "   8:00 - 9:00",
-      "Thursday:": "   8:00 - 9:00",
-      "Friday:": "   8:00 - 9:00",
-      "Saturday:": "   8:00 - 9:00"
+      "Sunday": " 8:00 - 9:00",
+      "Monday": "  8:00 - 9:00",
+      "Tuesday": "  8:00 - 9:00",
+      "Wednesday": "   8:00 - 9:00",
+      "Thursday": "   8:00 - 9:00",
+      "Friday": "   8:00 - 9:00",
+      "Saturday": "   8:00 - 9:00"
     },
     "about": "Zero Gravity beer hall. The production facility, featuring a beautiful beer hall, sunny outdoor seating, and plenty of beers to try. Great spins on American food."
   },
@@ -285,13 +285,13 @@
     },
     "phoneNumber": "1-802-540-0191",
     "hours": {
-      "Sunday:": " 5:30 - 10:00",
-      "Monday:": "  Closed ",
-      "Tuesday:": "  Closed ",
-      "Wednesday:": "  5:30 - 10:00",
-      "Thursday:": "  5:30 - 10:00",
-      "Friday:": "  5:30 - 10:00",
-      "Saturday:": "  5:30 - 10:00"
+      "Sunday": " 5:30 - 10:00",
+      "Monday": "  Closed ",
+      "Tuesday": "  Closed ",
+      "Wednesday": "  5:30 - 10:00",
+      "Thursday": "  5:30 - 10:00",
+      "Friday": "  5:30 - 10:00",
+      "Saturday": "  5:30 - 10:00"
     },
     "about": "Wow! This is the real deal. Great vibe. Pizza and salads that are fresh and refreshing. Happy tastebuds."
   },
@@ -306,13 +306,13 @@
     },
     "phoneNumber": "1-713-814-8865",
     "hours": {
-      "Sunday:": "  Closed",
-      "Monday:": "  12:00 - 8:30",
-      "Tuesday:": "  12:00 - 8:30",
-      "Wednesday:": "  12:00 - 8:30",
-      "Thursday:": "  12:00 - 8:30",
-      "Friday:": "  12:00 - 8:30",
-      "Saturday:": "  12:00 - 8:30"
+      "Sunday": "  Closed",
+      "Monday": "  12:00 - 8:30",
+      "Tuesday": "  12:00 - 8:30",
+      "Wednesday": "  12:00 - 8:30",
+      "Thursday": "  12:00 - 8:30",
+      "Friday": "  12:00 - 8:30",
+      "Saturday": "  12:00 - 8:30"
     },
     "about": "Laid-back outpost offering traditional soul food dishes alongside vegan choices & hearty sides."
   },
@@ -327,13 +327,13 @@
     },
     "phoneNumber": "1-346-227-7047",
     "hours": {
-      "Sunday:": "  11:00 - 8:30",
-      "Monday:": "  11:00 - 8:30",
-      "Tuesday:": "  11:00 - 8:30",
-      "Wednesday:": "  11:00 - 8:30",
-      "Thursday:": "  11:00 - 8:30",
-      "Friday:": "  11:00 - 8:30",
-      "Saturday:": "  11:00 - 8:30"
+      "Sunday": "  11:00 - 8:30",
+      "Monday": "  11:00 - 8:30",
+      "Tuesday": "  11:00 - 8:30",
+      "Wednesday": "  11:00 - 8:30",
+      "Thursday": "  11:00 - 8:30",
+      "Friday": "  11:00 - 8:30",
+      "Saturday": "  11:00 - 8:30"
     },
     "about": "Chic venue with select, organic Vietnamese meals, draft beers & outdoor seating."
   },
@@ -348,13 +348,13 @@
     },
     "phoneNumber": "1-346-227-7047",
     "hours": {
-      "Sunday:": "  10:00 - 9:00",
-      "Monday:": "  11:00 - 9:00",
-      "Tuesday:": "  11:00 - 9:00",
-      "Wednesday:": "  11:00 - 9:00",
-      "Thursday:": "  11:00 - 9:00",
-      "Friday:": "  11:00 - 10:00",
-      "Saturday:": "  10:00 - 10:00"
+      "Sunday": "  10:00 - 9:00",
+      "Monday": "  11:00 - 9:00",
+      "Tuesday": "  11:00 - 9:00",
+      "Wednesday": "  11:00 - 9:00",
+      "Thursday": "  11:00 - 9:00",
+      "Friday": "  11:00 - 10:00",
+      "Saturday": "  10:00 - 10:00"
     },
     "about": "Family-friendly outfit serving an extensive array of traditional Vietnamese & Chinese fare."
   },
@@ -422,5 +422,133 @@
       "Saturday": " 6:30 - 11:00"
     },
     "about": "Vietmanese food"
+  },
+  {
+    "id": 21,
+    "name": "Folino's Wood Fired Pizza Burlington",
+    "cuisine": "Pizza/Italian",
+    "address": "71 S Union St Unit 1, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.48580288992805,
+      "longitude": -73.21048061330345
+    },
+    "phoneNumber": "1-802-448-3110",
+    "hours": {
+      "Sunday": " 12:00 - 9:00",
+      "Monday": "  12:00 - 9:00",
+      "Tuesday": "  12:00 - 9:00",
+      "Wednesday": "  12:00 - 9:00",
+      "Thursday": "  12:00 - 9:00",
+      "Friday": "  12:00 - 9:30",
+      "Saturday": "  12:00 - 9:30"
+    },
+    "about": "Folino's is nestled in the beautiful green mountains of Vermont. We make wood-fired, apizza-style pizzas."
+  },
+
+  {
+    "id": 22,
+    "name": "Maliwan Thai Restaurant",
+    "cuisine": "Thai",
+    "address": "5 Carmichael St, Essex, VT 05452",
+    "latitudeAndLongitude": {
+      "latitude": 44.551978504901896,
+      "longitude": -73.08097762442546
+    },
+    "phoneNumber": "1-802-288-9828",
+    "hours": {
+      "Sunday": " Closed",
+      "Monday": "  11:30- 8:00",
+      "Tuesday": "  11:30- 8:00",
+      "Wednesday": "  11:30- 8:00",
+      "Thursday": "  11:30- 8:00",
+      "Friday": "  11:30- 8:00",
+      "Saturday": "  11:30- 8:00"
+    },
+    "about": "Maliwan Thai Restaurant served premium thai We created our food from love and passion. We know that healthy food can be delicious and we would love to share it to everyone."
+  },
+
+  {
+    "id": 23,
+    "name": "La Boca Woodfired Pizza",
+    "cuisine": "Pizza/Italian",
+    "address": "1127 North Ave Suite 32, Burlington, VT 05408",
+    "latitudeAndLongitude": {
+      "latitude": 44.60646204383021,
+      "longitude": -73.25947472089103
+    },
+    "phoneNumber": "1-802-399-2396",
+    "hours": {
+      "Sunday": " 12:00 - 8:00",
+      "Monday": "  Closed",
+      "Tuesday": "  Closed",
+      "Wednesday": "  12:00 - 8:00",
+      "Thursday": "  12:00 - 8:00",
+      "Friday": "  12:00 - 8:00",
+      "Saturday": "  12:00 - 8:00"
+    },
+    "about": "A beautiful, modern, but cozy delicious wood-fired pizza place. Chef owned and operated. Serving our community supporting Vermont farmers and producers from our choice of ingredients to our choice of libations."
+  },
+  {
+    "id": 24,
+    "name": "Kismayo Kitchen",
+    "cuisine": "Somali-Inspired",
+    "address": "505 Riverside Ave., Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.48973222144018,
+      "longitude": -73.20216301299487
+    },
+    "phoneNumber": "1-802-448-3032",
+    "hours": {
+      "Sunday": " 12:00 - 8:00",
+      "Monday": " Closed",
+      "Tuesday": " 2:00 - 8:00",
+      "Wednesday": " 11:30 - 8:00",
+      "Thursday": " 11:30 - 8:00",
+      "Friday": " 2:15 - 8:00",
+      "Saturday": " 12:00 - 8:00"
+    },
+    "about": "Down-to-earth restaurant serving eclectic Somali dishes & drinks in a quaint establishment."
+  },
+  {
+    "id": 25,
+    "name": "Restaurant Poco",
+    "cuisine": "American",
+    "address": "Main Street, Burlington, VT",
+    "latitudeAndLongitude": {
+      "latitude": 44.47577462311658,
+      "longitude": -73.21753342927417
+    },
+    "phoneNumber": "1-802-497-2587",
+    "hours": {
+      "Sunday": "Closed",
+      "Monday": "Closed",
+      "Tuesday": " 5:30-9:00",
+      "Wednesday": " 5:30-9:00",
+      "Thursday": " 5:30-9:00",
+      "Friday": " 5:30-10:00",
+      "Saturday": " 5:30-10:00"
+    },
+    "about": "Restaurant Poco is small plate restaurant and bar in Burlington Vermont, offering selectively sourced ingredients, beer, and wine."
+  },
+  {
+    "id": 26,
+    "name": "Café Saint Paul",
+    "cuisine": "American",
+    "address": "196 St Paul St, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.474040908339724,
+      "longitude": -73.21356823882273
+    },
+    "phoneNumber": "1-802-239-1774",
+    "hours": {
+      "Sunday": " 8:00 - 4:00",
+      "Monday": " 8:00 - 4:00",
+      "Tuesday": " 8:00 - 4:00",
+      "Wednesday": " 8:00 - 4:00",
+      "Thursday": " 7:00 - 5:00",
+      "Friday": " 7:00 - 5:00",
+      "Saturday": " 8:00 – 4:00"
+    },
+    "about": "New Café/Deli serving up daily in house made breakfast and lunch in Burlington’s South End."
   }
 ]
