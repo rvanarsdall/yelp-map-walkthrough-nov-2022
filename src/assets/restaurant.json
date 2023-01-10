@@ -364,8 +364,8 @@
     "cuisine": "Italian",
     "address": "206 Main St, Burlington, VT 05401",
     "latitudeAndLongitude": {
-      "latitude": 44.476277522067534, 
-      "longitude": -73.21121233077483,
+      "latitude": 44.476277522067534,
+      "longitude": -73.21121233077483
     },
     "phoneNumber": "1-802-739-0007",
     "hours": {
@@ -387,7 +387,7 @@
     "address": "293 Main St, Winooski, VT 05404",
     "latitudeAndLongitude": {
       "latitude": 44.49789870558742,
-      "longitude":  -73.18424931543008,
+      "longitude": -73.18424931543008
     },
     "phoneNumber": "1-802-739-0007",
     "hours": {
@@ -409,7 +409,7 @@
     "address": "325 N Winooski Ave, Burlington, VT 05401",
     "latitudeAndLongitude": {
       "latitude": 44.48906183159735,
-      "longitude":   -73.20708660193841,,
+      "longitude": -73.20708660193841
     },
     "phoneNumber": "1-802-739-0007",
     "hours": {
