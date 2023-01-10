@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "name": "First Watch",
+    "cuisine": "American",
+    "address": "5354 Fruitville Rd #4, Sarasota, FL 34232",
+    "latitudeAndLongitude": {
+      "latitude": 27.34161768741716,
+      "longitude": -82.46284246601951
+    },
+    "phoneNumber": "1-941-914-9508",
+    "hours": {
+      "Sunday": " 7:00 - 2:30",
+      "Monday": " 7:00 - 2:30",
+      "Tuesday": " 7:00 - 2:30",
+      "Wednesday": " 7:00 - 2:30",
+      "Thursday": " 7:00 - 2:30",
+      "Friday": " 7:00 - 2:30",
+      "Saturday": " 7:00 - 2:30"
+    },
+    "about": "Casual cafe for breakfast and lunch"
+  },
+  {
+    "id": 2,
+    "name": "El Melvin Cocina Mexicana",
+    "cuisine": "Mexican",
+    "address": "1355 Main St, Sarasota, FL 34236",
+    "latitudeAndLongitude": {
+      "latitude": 27.33614368978457,
+      "longitude": -82.54350578934063
+    },
+    "phoneNumber": "1-941-366-1618",
+    "hours": {
+      "Sunday": " 11:00 - 10:00",
+      "Monday": " 11:00 - 10:00",
+      "Tuesday": " 11:00 - 10:00",
+      "Wednesday": " 11:00 - 10:00",
+      "Thursday": " 11:00 - 10:00",
+      "Friday": " 11:00 - 11:00",
+      "Saturday": " 11:00 - 11:00"
+    },
+    "about": "El Melvin strikes the ideal balance between a celebration in Mexico and a fun night out in Austin. It is the perfect embodiment of the modern “Mex-Eclectic” spirit."
+  },
+  {
+    "id": 3,
+    "name": "Cooper's Hawk Winery and Restaurant",
+    "cuisine": "Fine Seafood and Steakhouse",
+    "address": "3130 Fruitville Commons Blvd, Sarasota, FL 34240",
+    "latitudeAndLongitude": {
+      "latitude": 27.339543928533864,
+      "longitude": -82.4418886389347
+    },
+    "phoneNumber": "1-941-263-8100",
+    "hours": {
+      "Sunday": " 11:00 - 9:00",
+      "Monday": " 11:00 - 9:00",
+      "Tuesday": " 11:00 - 9:00",
+      "Wednesday": " 11:00 - 9:00",
+      "Thursday": " 11:00 - 9:00",
+      "Friday": " 11:00 - 10:00",
+      "Saturday": " 11:00 - 10:00"
+    },
+    "about": "Cooper’s Hawk has created a modern, casual dining experience with warm hospitality in an inviting upscale setting."
+  },
+  {
+    "id": 6,
+    "name": "Tito's Taqueria",
+    "cuisine": "tacos",
+    "address": "898 putney rd, brattleboro, VT 05301",
+    "latitudeAndLongitude": {
+      "latitude": 42.87977,
+      "longitude": -72.55992
+    },
+    "phoneNumber": "1-802-490-2748",
+    "hours": {
+      "Sunday": "closed",
+      "Monday": "11:00 - 8:00",
+      "Tuesday": "11:00 - 8:00",
+      "Wednesday": "11:00 - 8:00",
+      "Thursday": "11:00 - 8:00",
+      "Friday": "11:00 - 8:00",
+      "Saturday": "11:00 - 8:00"
+    },
+    "about": "It all began in July of 2016 when we decided to share our love of tacos with the world. A cooler filled with hot bricks wrapped in foil, kept the first batch of breakfast tacos warm as I stood on the side of the road at 7 a.m. anxiously awaiting our first customer. That morning didn’t bring much luck but we didn’t let it stop us. With the support of family I was back out there the next morning and to my surprise we sold out! That’s when Tito’s was born. Fast forward 3 years and with the overwhelming support of our community we have turned this taco dream into a taco reality. To feed the need for our one of a kind tacos & burritos we now operate out of a fully equipped taco trailer in Brattleboro VT and Greenfield MA, along with a commercial kitchen with no plans of stopping there. Our ultimate goal is to expand into brick and mortar locations to better serve our community and encourage all who come in contact with Tito’s to follow their dreams too. "
+  },
+  {
+    "id": 4,
+    "name": "Brattleboro Food Co-Op",
+    "cuisine": "food co-op",
+    "address": "2 main st, brattleboro, VT 05301",
+    "latitudeAndLongitude": {
+      "latitude": 42.85083,
+      "longitude": -72.55783
+    },
+    "phoneNumber": "1-802-257-0236",
+    "hours": {
+      "Sunday": "9:00 - 8:00",
+      "Monday": "8:00 - 8:00",
+      "Tuesday": "8:00 - 8:00",
+      "Wednesday": "8:00 - 8:00",
+      "Thursday": "8:00 - 8:00",
+      "Friday": "8:00 - 8:00",
+      "Saturday": "8:00 - 8:00"
+    },
+    "about": "its a food co-op not much else to say"
+  },
+  {
+    "id": 5,
+    "name": " Brown and Roberts Ace Hardware ",
+    "cuisine": "hardware store",
+    "address": "182 main st, brattleboro, VT 05301",
+    "latitudeAndLongitude": {
+      "latitude": 42.85366,
+      "longitude": -72.55873
+    },
+    "phoneNumber": "802-257-4566",
+    "hours": {
+      "Sunday": "9:00-1:00",
+      "Monday": "7:30-5:30",
+      "Tuesday": "7:30-5:30",
+      "Wednesday": "7:30-5:30",
+      "Thursday": "7:30-5:30",
+      "Friday": "7:30-5:30",
+      "Saturday": "7:30-4:30"
+    },
+    "about": "If we don't have it you don't need it."
+  },
+  {
+    "id": 7,
+    "name": "Flor de Mayo",
+    "cuisine": "Peruvian",
+    "address": "484 Amsterdam Ave, New York, NY 10024",
+    "latitudeAndLongitude": {
+      "latitude": 40.7860702,
+      "longitude": -74.009511
+    },
+    "phoneNumber": "(212) 787-3388",
+    "hours": {
+      "Mon:": " 1:00 pm - 10:00 pm",
+      "Tue:": "1:00 pm - 10:00 pm",
+      "Wed:": "1:00 pm - 10:00 pm",
+      "Thu:": "1:00 pm - 10:00 pm",
+      "Fri:": "1:00 pm - 11:00 pm",
+      "Sat:": "1:00 pm - 11:00 pm",
+      "Sun:": "1:00 pm - 10:00 pm"
+    },
+    "about": "upbeat Spanish-paruvian food"
+  },
+
+  {
+    "id": 8,
+    "name": "Cuts and Slices",
+    "cuisine": "Pizzeria",
+    "address": "93 Howard Ave, Brooklyn, NY 11233",
+    "latitudeAndLongitude": {
+      "latitude": 40.685388,
+      "longitude": -73.9224867
+    },
+
+    "phoneNumber": "+17185522652",
+    "hours": {
+      "Tuesday:": "12:00 - 9:00",
+      "Wednesday:": "12:00 - 9:00",
+      "Thursday:": "12:00 - 9:00",
+      "Friday:": "12:00 - 10:00",
+      "Saturday:": "12:00 - 10:00",
+      "Sunday:": "12:00 - 8:00",
+      "Monday:": "12:00 - 9:00"
+    },
+    "about": "Unique twist on Pizza with topping options out of this world"
+  },
+  {
+    "id": 12,
+    "name": "Cork Restaurant and Natural Wine Shop",
+    "cuisine": "American, Contemporary",
+    "address": "35 School Street, Stowe, VT 05672",
+    "latitudeAndLongitude": {
+      "latitude": 44.4648912474563,
+      "longitude": -72.68435212490662
+    },
+    "phoneNumber": "802-760-6143",
+    "hours": {
+      "Sunday:": " 4:00 - 10:00",
+      "Monday:": "  4:00 - 10:00",
+      "Tuesday:": "  Closed",
+      "Wednesday:": "  Closed",
+      "Thursday:": "  4:00 - 10:00",
+      "Friday:": "  4:00 - 10:00",
+      "Saturday:": "  4:00 - 10:00"
+    },
+    "about": "Wine bar featuring all natural, organic, and biodynamic wines with a unique offering of small plates and entrees highlighting local ingredients."
+  },
+  {
+    "id": 11,
+    "name": "Hen Of The Wood",
+    "cuisine": "American",
+    "address": "92 Stowe Street, Waterbury, VT 05676",
+    "latitudeAndLongitude": {
+      "latitude": 44.342272893613696,
+      "longitude": -72.7479721114193
+    },
+    "phoneNumber": "802-244-7300",
+    "hours": {
+      "Sunday:": " Closed",
+      "Monday:": "  Closed",
+      "Tuesday:": "  5:00 - 9:00",
+      "Wednesday:": "  5:00 - 9:00",
+      "Thursday:": "  5:00 - 9:00",
+      "Friday:": "  5:00 - 9:00",
+      "Saturday:": "  5:00 - 9:00"
+    },
+    "about": "Simple, technique-driven northeast regional food."
+  },
+  {
+    "id": 10,
+    "name": "Blackback Pub",
+    "cuisine": "American, Pub",
+    "address": "1 Stowe Street, Waterbury, VT 05676",
+    "latitudeAndLongitude": {
+      "latitude": 44.33774947416098,
+      "longitude": -72.75595436547434
+    },
+    "phoneNumber": "802-244-0123",
+    "hours": {
+      "Sunday:": " Closed",
+      "Monday:": "  Closed",
+      "Tuesday:": "  12:00 - 9:00",
+      "Wednesday:": "  12:00 - 9:00",
+      "Thursday:": "  12:00 - 9:00",
+      "Friday:": "  12:00 - 9:00",
+      "Saturday:": "  12:00 - 9:000"
+    },
+    "about": "Quaint farm-to-table American restuarant with large craft beer selection."
+  },
+  {
+    "id": 9,
+    "name": "Burlington Beer Company",
+    "cuisine": "American",
+    "address": "180 Flynn Ave, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.45758336035101,
+      "longitude": -73.21998360792601
+    },
+    "phoneNumber": "1-802-863-2337",
+    "hours": {
+      "Sunday:": " 12:00 - 9:00",
+      "Monday:": "  12:00 - 9:00",
+      "Tuesday:": "  12:00 - 9:00",
+      "Wednesday:": "  12:00 - 9:00",
+      "Thursday:": "  12:00 - 9:00",
+      "Friday:": "  12:00 - 9:00",
+      "Saturday:": "  12:00 - 9:00"
+    },
+    "about": "Burlington Beer Co. was established in 2014. THe taproom, restaurant and barrel house is located at 180 Flynn Avenue in Burlington, VT."
+  },
+  {
+    "id": 14,
+    "name": "Zero Gravity",
+    "cuisine": "American",
+    "address": "716 Pine St, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.46053697961136,
+      "longitude": -73.214220684148
+    },
+    "phoneNumber": "1-802-497-0054",
+    "hours": {
+      "Sunday:": " 8:00 - 9:00",
+      "Monday:": "  8:00 - 9:00",
+      "Tuesday:": "  8:00 - 9:00",
+      "Wednesday:": "   8:00 - 9:00",
+      "Thursday:": "   8:00 - 9:00",
+      "Friday:": "   8:00 - 9:00",
+      "Saturday:": "   8:00 - 9:00"
+    },
+    "about": "Zero Gravity beer hall. The production facility, featuring a beautiful beer hall, sunny outdoor seating, and plenty of beers to try. Great spins on American food."
+  },
+  {
+    "id": 13,
+    "name": "Pizeria Ida",
+    "cuisine": "Pizza/Italian",
+    "address": "662 Riverside Ave, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.48975241365785,
+      "longitude": -73.2073625
+    },
+    "phoneNumber": "1-802-540-0191",
+    "hours": {
+      "Sunday:": " 5:30 - 10:00",
+      "Monday:": "  Closed ",
+      "Tuesday:": "  Closed ",
+      "Wednesday:": "  5:30 - 10:00",
+      "Thursday:": "  5:30 - 10:00",
+      "Friday:": "  5:30 - 10:00",
+      "Saturday:": "  5:30 - 10:00"
+    },
+    "about": "Wow! This is the real deal. Great vibe. Pizza and salads that are fresh and refreshing. Happy tastebuds."
+  }
+]
