@@ -294,5 +294,133 @@
       "Saturday:": "  5:30 - 10:00"
     },
     "about": "Wow! This is the real deal. Great vibe. Pizza and salads that are fresh and refreshing. Happy tastebuds."
+  },
+  {
+    "id": 15,
+    "name": "Soul Food Vegan",
+    "cuisine": "Vegan Soul Food",
+    "address": "2901 Emancipation Ave, Houston, TX 77004",
+    "latitudeAndLongitude": {
+      "latitude": 29.73623540752789,
+      "longitude": -95.3635282306865
+    },
+    "phoneNumber": "1-713-814-8865",
+    "hours": {
+      "Sunday:": "  Closed",
+      "Monday:": "  12:00 - 8:30",
+      "Tuesday:": "  12:00 - 8:30",
+      "Wednesday:": "  12:00 - 8:30",
+      "Thursday:": "  12:00 - 8:30",
+      "Friday:": "  12:00 - 8:30",
+      "Saturday:": "  12:00 - 8:30"
+    },
+    "about": "Laid-back outpost offering traditional soul food dishes alongside vegan choices & hearty sides."
+  },
+  {
+    "id": 16,
+    "name": "Lúa Viet Kitchen",
+    "cuisine": "Vietnamese",
+    "address": "1540 W Alabama St #300, Houston, TX 77006",
+    "latitudeAndLongitude": {
+      "latitude": 29.73909442096851,
+      "longitude": -95.39873624232837
+    },
+    "phoneNumber": "1-346-227-7047",
+    "hours": {
+      "Sunday:": "  11:00 - 8:30",
+      "Monday:": "  11:00 - 8:30",
+      "Tuesday:": "  11:00 - 8:30",
+      "Wednesday:": "  11:00 - 8:30",
+      "Thursday:": "  11:00 - 8:30",
+      "Friday:": "  11:00 - 8:30",
+      "Saturday:": "  11:00 - 8:30"
+    },
+    "about": "Chic venue with select, organic Vietnamese meals, draft beers & outdoor seating."
+  },
+  {
+    "id": 17,
+    "name": "Kim Son",
+    "cuisine": "Vietnamese",
+    "address": "12750 Southwest Fwy, Stafford, TX 77477",
+    "latitudeAndLongitude": {
+      "latitude": 29.63683004273314,
+      "longitude": -95.58606744417906
+    },
+    "phoneNumber": "1-346-227-7047",
+    "hours": {
+      "Sunday:": "  10:00 - 9:00",
+      "Monday:": "  11:00 - 9:00",
+      "Tuesday:": "  11:00 - 9:00",
+      "Wednesday:": "  11:00 - 9:00",
+      "Thursday:": "  11:00 - 9:00",
+      "Friday:": "  11:00 - 10:00",
+      "Saturday:": "  10:00 - 10:00"
+    },
+    "about": "Family-friendly outfit serving an extensive array of traditional Vietnamese & Chinese fare."
+  },
+  {
+    "id": 20,
+    "name": "Mr. Mikes",
+    "cuisine": "Italian",
+    "address": "206 Main St, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.476277522067534, 
+      "longitude": -73.21121233077483,
+    },
+    "phoneNumber": "1-802-739-0007",
+    "hours": {
+      "Sunday": " 5:30 - 9:00",
+      "Monday": " 4:30 - 10:00",
+      "Tuesday": " 4:30 - 9:00",
+      "Wednesday": " 4:30 - 9:00",
+      "Thursday": " 4:30 - 9:00",
+      "Friday": " 6:30 - 11:00",
+      "Saturday": " 6:30 - 11:00"
+    },
+    "about": "Pizza Shop"
+  },
+
+  {
+    "id": 19,
+    "name": "Tiny Thai",
+    "cuisine": "Thai food",
+    "address": "293 Main St, Winooski, VT 05404",
+    "latitudeAndLongitude": {
+      "latitude": 44.49789870558742,
+      "longitude":  -73.18424931543008,
+    },
+    "phoneNumber": "1-802-739-0007",
+    "hours": {
+      "Sunday": " 5:30 - 9:00",
+      "Monday": " 4:30 - 10:00",
+      "Tuesday": " 4:30 - 9:00",
+      "Wednesday": " 4:30 - 9:00",
+      "Thursday": " 4:30 - 9:00",
+      "Friday": " 6:30 - 11:00",
+      "Saturday": " 6:30 - 11:00"
+    },
+    "about": "Thai food"
+  },
+
+  {
+    "id": 18,
+    "name": "Pho Hong",
+    "cuisine": "Vietmanese food",
+    "address": "325 N Winooski Ave, Burlington, VT 05401",
+    "latitudeAndLongitude": {
+      "latitude": 44.48906183159735,
+      "longitude":   -73.20708660193841,,
+    },
+    "phoneNumber": "1-802-739-0007",
+    "hours": {
+      "Sunday": " 5:30 - 9:00",
+      "Monday": " 4:30 - 10:00",
+      "Tuesday": " 4:30 - 9:00",
+      "Wednesday": " 4:30 - 9:00",
+      "Thursday": " 4:30 - 9:00",
+      "Friday": " 6:30 - 11:00",
+      "Saturday": " 6:30 - 11:00"
+    },
+    "about": "Vietmanese food"
   }
 ]
